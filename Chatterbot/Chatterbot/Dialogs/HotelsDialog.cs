@@ -1,4 +1,8 @@
-﻿namespace Chatterbot.Dialogs
+//@reference https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/core-MultiDialogs
+
+
+
+namespace Chatterbot.Dialogs
 {
     using System;
     using System.Collections.Generic;
