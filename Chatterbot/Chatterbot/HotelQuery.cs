@@ -1,4 +1,4 @@
-//@reference https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/core-MultiDialogs
+
 
 namespace Chatterbot
 {
