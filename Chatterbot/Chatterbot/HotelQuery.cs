@@ -1,4 +1,6 @@
-﻿namespace Chatterbot
+//@reference //@reference https://github.com/Microsoft/BotBuilder-Samples/tree/master/CSharp/core-MultiDialogs
+
+namespace Chatterbot
 {
     using System;
     using Microsoft.Bot.Builder.FormFlow;
